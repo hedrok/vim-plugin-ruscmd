@@ -152,261 +152,313 @@ if !exists('g:no_plugin_maps') && !exists('g:no_ruscmd_maps')
 	map <unique> ьФ mA
 	map <unique> ёФ `A
 	map <unique> эФ 'A
+	map <unique> єФ 'A
 	map <unique> пёФ g`A
 	map <unique> пэФ g'A
 	map <unique> ьИ mB
 	map <unique> ёИ `B
 	map <unique> эИ 'B
+	map <unique> єИ 'B
 	map <unique> пёИ g`B
 	map <unique> пэИ g'B
 	map <unique> ьС mC
 	map <unique> ёС `C
 	map <unique> эС 'C
+	map <unique> єС 'C
 	map <unique> пёС g`C
 	map <unique> пэС g'C
 	map <unique> ьВ mD
 	map <unique> ёВ `D
 	map <unique> эВ 'D
+	map <unique> єВ 'D
 	map <unique> пёВ g`D
 	map <unique> пэВ g'D
 	map <unique> ьУ mE
 	map <unique> ёУ `E
 	map <unique> эУ 'E
+	map <unique> єУ 'E
 	map <unique> пёУ g`E
 	map <unique> пэУ g'E
 	map <unique> ьА mF
 	map <unique> ёА `F
 	map <unique> эА 'F
+	map <unique> єА 'F
 	map <unique> пёА g`F
 	map <unique> пэА g'F
 	map <unique> ьП mG
 	map <unique> ёП `G
 	map <unique> эП 'G
+	map <unique> єП 'G
 	map <unique> пёП g`G
 	map <unique> пэП g'G
 	map <unique> ьР mH
 	map <unique> ёР `H
 	map <unique> эР 'H
+	map <unique> єР 'H
 	map <unique> пёР g`H
 	map <unique> пэР g'H
 	map <unique> ьШ mI
 	map <unique> ёШ `I
 	map <unique> эШ 'I
+	map <unique> єШ 'I
 	map <unique> пёШ g`I
 	map <unique> пэШ g'I
 	map <unique> ьО mJ
 	map <unique> ёО `J
 	map <unique> эО 'J
+	map <unique> єО 'J
 	map <unique> пёО g`J
 	map <unique> пэО g'J
 	map <unique> ьЛ mK
 	map <unique> ёЛ `K
 	map <unique> эЛ 'K
+	map <unique> єЛ 'K
 	map <unique> пёЛ g`K
 	map <unique> пэЛ g'K
 	map <unique> ьД mL
 	map <unique> ёД `L
 	map <unique> эД 'L
+	map <unique> єД 'L
 	map <unique> пёД g`L
 	map <unique> пэД g'L
 	map <unique> ьЬ mM
 	map <unique> ёЬ `M
 	map <unique> эЬ 'M
+	map <unique> єЬ 'M
 	map <unique> пёЬ g`M
 	map <unique> пэЬ g'M
 	map <unique> ьТ mN
 	map <unique> ёТ `N
 	map <unique> эТ 'N
+	map <unique> єТ 'N
 	map <unique> пёТ g`N
 	map <unique> пэТ g'N
 	map <unique> ьЩ mO
 	map <unique> ёЩ `O
 	map <unique> эЩ 'O
+	map <unique> єЩ 'O
 	map <unique> пёЩ g`O
 	map <unique> пэЩ g'O
 	map <unique> ьЗ mP
 	map <unique> ёЗ `P
 	map <unique> эЗ 'P
+	map <unique> єЗ 'P
 	map <unique> пёЗ g`P
 	map <unique> пэЗ g'P
 	map <unique> ьЙ mQ
 	map <unique> ёЙ `Q
 	map <unique> эЙ 'Q
+	map <unique> єЙ 'Q
 	map <unique> пёЙ g`Q
 	map <unique> пэЙ g'Q
 	map <unique> ьК mR
 	map <unique> ёК `R
 	map <unique> эК 'R
+	map <unique> єК 'R
 	map <unique> пёК g`R
 	map <unique> пэК g'R
 	map <unique> ьЫ mS
 	map <unique> ёЫ `S
 	map <unique> эЫ 'S
+	map <unique> єЫ 'S
 	map <unique> пёЫ g`S
 	map <unique> пэЫ g'S
 	map <unique> ьЕ mT
 	map <unique> ёЕ `T
 	map <unique> эЕ 'T
+	map <unique> єЕ 'T
 	map <unique> пёЕ g`T
 	map <unique> пэЕ g'T
 	map <unique> ьГ mU
 	map <unique> ёГ `U
 	map <unique> эГ 'U
+	map <unique> єГ 'U
 	map <unique> пёГ g`U
 	map <unique> пэГ g'U
 	map <unique> ьМ mV
 	map <unique> ёМ `V
 	map <unique> эМ 'V
+	map <unique> єМ 'V
 	map <unique> пёМ g`V
 	map <unique> пэМ g'V
 	map <unique> ьЦ mW
 	map <unique> ёЦ `W
 	map <unique> эЦ 'W
+	map <unique> єЦ 'W
 	map <unique> пёЦ g`W
 	map <unique> пэЦ g'W
 	map <unique> ьЧ mX
 	map <unique> ёЧ `X
 	map <unique> эЧ 'X
+	map <unique> єЧ 'X
 	map <unique> пёЧ g`X
 	map <unique> пэЧ g'X
 	map <unique> ьН mY
 	map <unique> ёН `Y
 	map <unique> эН 'Y
+	map <unique> єН 'Y
 	map <unique> пёН g`Y
 	map <unique> пэН g'Y
 	map <unique> ьЯ mZ
 	map <unique> ёЯ `Z
 	map <unique> эЯ 'Z
+	map <unique> єЯ 'Z
 	map <unique> пёЯ g`Z
 	map <unique> пэЯ g'Z
 	map <unique> ьф ma
 	map <unique> ёф `a
 	map <unique> эф 'a
+	map <unique> єф 'a
 	map <unique> пёф g`a
 	map <unique> пэф g'a
 	map <unique> ьи mb
 	map <unique> ёи `b
 	map <unique> эи 'b
+	map <unique> єи 'b
 	map <unique> пёи g`b
 	map <unique> пэи g'b
 	map <unique> ьс mc
 	map <unique> ёс `c
 	map <unique> эс 'c
+	map <unique> єс 'c
 	map <unique> пёс g`c
 	map <unique> пэс g'c
 	map <unique> ьв md
 	map <unique> ёв `d
 	map <unique> эв 'd
+	map <unique> єв 'd
 	map <unique> пёв g`d
 	map <unique> пэв g'd
 	map <unique> ьу me
 	map <unique> ёу `e
 	map <unique> эу 'e
+	map <unique> єу 'e
 	map <unique> пёу g`e
 	map <unique> пэу g'e
 	map <unique> ьа mf
 	map <unique> ёа `f
 	map <unique> эа 'f
+	map <unique> єа 'f
 	map <unique> пёа g`f
 	map <unique> пэа g'f
 	map <unique> ьп mg
 	map <unique> ёп `g
 	map <unique> эп 'g
+	map <unique> єп 'g
 	map <unique> пёп g`g
 	map <unique> пэп g'g
 	map <unique> ьр mh
 	map <unique> ёр `h
 	map <unique> эр 'h
+	map <unique> єр 'h
 	map <unique> пёр g`h
 	map <unique> пэр g'h
 	map <unique> ьш mi
 	map <unique> ёш `i
 	map <unique> эш 'i
+	map <unique> єш 'i
 	map <unique> пёш g`i
 	map <unique> пэш g'i
 	map <unique> ьо mj
 	map <unique> ёо `j
 	map <unique> эо 'j
+	map <unique> єо 'j
 	map <unique> пёо g`j
 	map <unique> пэо g'j
 	map <unique> ьл mk
 	map <unique> ёл `k
 	map <unique> эл 'k
+	map <unique> єл 'k
 	map <unique> пёл g`k
 	map <unique> пэл g'k
 	map <unique> ьд ml
 	map <unique> ёд `l
 	map <unique> эд 'l
+	map <unique> єд 'l
 	map <unique> пёд g`l
 	map <unique> пэд g'l
 	map <unique> ьь mm
 	map <unique> ёь `m
 	map <unique> эь 'm
+	map <unique> єь 'm
 	map <unique> пёь g`m
 	map <unique> пэь g'm
 	map <unique> ьт mn
 	map <unique> ёт `n
 	map <unique> эт 'n
+	map <unique> єт 'n
 	map <unique> пёт g`n
 	map <unique> пэт g'n
 	map <unique> ьщ mo
 	map <unique> ёщ `o
 	map <unique> эщ 'o
+	map <unique> єщ 'o
 	map <unique> пёщ g`o
 	map <unique> пэщ g'o
 	map <unique> ьз mp
 	map <unique> ёз `p
 	map <unique> эз 'p
+	map <unique> єз 'p
 	map <unique> пёз g`p
 	map <unique> пэз g'p
 	map <unique> ьй mq
 	map <unique> ёй `q
 	map <unique> эй 'q
+	map <unique> єй 'q
 	map <unique> пёй g`q
 	map <unique> пэй g'q
 	map <unique> ьк mr
 	map <unique> ёк `r
 	map <unique> эк 'r
+	map <unique> єк 'r
 	map <unique> пёк g`r
 	map <unique> пэк g'r
 	map <unique> ьы ms
 	map <unique> ёы `s
 	map <unique> эы 's
+	map <unique> єы 's
 	map <unique> пёы g`s
 	map <unique> пэы g's
 	map <unique> ье mt
 	map <unique> ёе `t
 	map <unique> эе 't
+	map <unique> єе 't
 	map <unique> пёе g`t
 	map <unique> пэе g't
 	map <unique> ьг mu
 	map <unique> ёг `u
 	map <unique> эг 'u
+	map <unique> єг 'u
 	map <unique> пёг g`u
 	map <unique> пэг g'u
 	map <unique> ьм mv
 	map <unique> ём `v
 	map <unique> эм 'v
+	map <unique> єм 'v
 	map <unique> пём g`v
 	map <unique> пэм g'v
 	map <unique> ьц mw
 	map <unique> ёц `w
 	map <unique> эц 'w
+	map <unique> єц 'w
 	map <unique> пёц g`w
 	map <unique> пэц g'w
 	map <unique> ьч mx
 	map <unique> ёч `x
 	map <unique> эч 'x
+	map <unique> єч 'x
 	map <unique> пёч g`x
 	map <unique> пэч g'x
 	map <unique> ьн my
 	map <unique> ён `y
 	map <unique> эн 'y
+	map <unique> єн 'y
 	map <unique> пён g`y
 	map <unique> пэн g'y
 	map <unique> ья mz
 	map <unique> ёя `z
 	map <unique> эя 'z
+	map <unique> єя 'z
 	map <unique> пёя g`z
 	map <unique> пэя g'z
 
